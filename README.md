@@ -18,7 +18,7 @@ and its contact details.
 ---
 
 ## Screen Captures
-![Hero](hero.png "Hero Section")The hero section showcases the interior of the coffee house.
-![Featured](Featured.png "Featured Section")The featured section showcases the best-selling products offered.
-![Menu](Menu.png "Menu Page")The menu page shows the products available.
-![Map](map.png "Embedded Map")The address and its map on the contact page.
+![Hero](hero.png)The hero section showcases the interior of the coffee house.
+![Featured](Featured.png)The featured section showcases the best-selling products offered.
+![Menu](Menu.png)The menu page shows the products available.
+![Map](map.png)The address and its map on the contact page.
